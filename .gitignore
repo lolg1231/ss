@@ -1,0 +1,10 @@
+.env
+data/gamertags.txt
+data/accounts.txt
+data/proxies.txt
+data/hits.txt
+logs/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
