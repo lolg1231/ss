@@ -1,0 +1,2 @@
+account1@outlook.com:Password123
+account2@xbox.com:SecurePass456
